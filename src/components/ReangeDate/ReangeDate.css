@@ -1,0 +1,43 @@
+@import url("./ReangeDate.css");
+
+  @import url("./ReangeDate-form/ReangeDate-form.css");
+    @import url("./ReangeDate-form/__input/ReangeDate-form__input.css");
+    @import url("./ReangeDate-form/__delimiter/ReangeDate-form__delimiter.css");
+
+  @import url("./ReangeDate-popap/ReangeDate-popap.css");
+    @import url("./ReangeDate-popap/__cursor/ReangeDate-popap__cursor.css");
+    @import url("./ReangeDate-popap/__date/ReangeDate-popap__date.css");
+    @import url("./ReangeDate-popap/__date-header/ReangeDate-popap__date-header.css");
+    @import url("./ReangeDate-popap/__title-wripper/ReangeDate-popap__title-wripper.css");
+    @import url("./ReangeDate-popap/__date-header-title/ReangeDate-popap__date-header-title.css");
+    @import url("./ReangeDate-popap/__date-header-button/ReangeDate-popap__date-header-button.css");
+    @import url("./ReangeDate-popap/__date-name/ReangeDate-popap__date-name.css");
+    @import url("./ReangeDate-popap/__date-name-item/ReangeDate-popap__date-name-item.css");
+    @import url("./ReangeDate-popap/__date-calendar/ReangeDate-popap__date-calendar.css");
+    @import url("./ReangeDate-popap/__date-calendar-item/ReangeDate-popap__date-calendar-item.css");
+
+    @import url("./MountsYears/mountsYears.css");
+    @import url("./MountsYears/mountsYears__item/mountsYears__item.css");
+
+  @import url("./popap-active/popap-active.css");
+  @import url("./cursor-rigth/cursor-rigth.css");
+  @import url("./today/today.css");
+  @import url("./input-active/input-active.css");
+  @import url("./today-range/today-range.css");
+  @import url("./inactiv/inactiv.css");
+  
+
+.ReangeDate {
+  position: relative;
+
+  width: 250px;
+  height: 30px;
+
+  margin: 0 auto;
+}
+
+:root {
+  --primary-color: green;
+  --primary-bacgraung-color: rgb(208, 253, 216);
+  --item-color: rgb(117, 117, 117);
+}

@@ -1,0 +1,12 @@
+.ReangeDate-popap__date { 
+  display: flex;
+  flex-direction: column;
+  
+  
+  width: 274px;
+  height: 100%;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}

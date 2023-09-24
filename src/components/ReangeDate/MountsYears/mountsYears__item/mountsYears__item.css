@@ -1,0 +1,28 @@
+.mountsYears__item { 
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  grid-row-gap: 0;
+
+  color: rgb(72, 72, 72);
+
+  background-color: #fff;
+
+  border-top: 1px solid #E4E7E7;
+  border-left: 1px solid #E4E7E7;
+
+  cursor: pointer;
+}
+
+.mountsYears__item:nth-child(n+10) { 
+  border-bottom: 1px solid #E4E7E7;
+}
+
+.mountsYears__item:nth-child(3n) { 
+  border-right: 1px solid #E4E7E7;
+}
+
+.mountsYears__item:hover { 
+  background-color: #E4E7E7;
+  color: #000
+}

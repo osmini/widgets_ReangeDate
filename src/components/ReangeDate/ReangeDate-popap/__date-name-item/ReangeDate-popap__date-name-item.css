@@ -1,0 +1,10 @@
+.ReangeDate-popap__date-name-item { 
+  width: 40px;
+
+  margin-top: 14px;
+
+  font-size: 14px;
+  text-align: center;
+
+  color: var(--item-color);
+}

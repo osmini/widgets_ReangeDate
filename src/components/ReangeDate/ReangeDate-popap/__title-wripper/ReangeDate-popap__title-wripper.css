@@ -1,0 +1,9 @@
+.ReangeDate-popap__title-wripper { 
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+  width: 100%;
+  height: 32px;
+
+}

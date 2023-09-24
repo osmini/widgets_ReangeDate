@@ -1,0 +1,6 @@
+.today-range { 
+  color: #fff;
+
+  background-color: var(--primary-color);
+  opacity: .5;
+}

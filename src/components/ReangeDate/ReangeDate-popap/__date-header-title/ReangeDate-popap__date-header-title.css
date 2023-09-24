@@ -1,0 +1,14 @@
+.ReangeDate-popap__date-header-title { 
+  font-size: 18px;
+  font-weight: 600;
+
+  margin: 0 5px;
+
+  color: rgb(72, 72, 72);
+}
+
+.ReangeDate-popap__date-header-title:hover { 
+  color: var(--primary-color);
+
+  cursor: pointer;
+}

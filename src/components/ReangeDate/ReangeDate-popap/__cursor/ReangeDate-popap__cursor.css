@@ -1,0 +1,11 @@
+.ReangeDate-popap__cursor { 
+  width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 30px solid rgb(208, 253, 216);
+
+  position: absolute;
+  left: 20px;
+  top: -10px;
+}

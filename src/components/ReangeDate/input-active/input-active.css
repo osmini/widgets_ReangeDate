@@ -1,0 +1,4 @@
+.input-active { 
+  border: none;
+  border-bottom: 3px solid var(--primary-color);
+}

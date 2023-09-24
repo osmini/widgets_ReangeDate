@@ -1,0 +1,10 @@
+.ReangeDate-popap__date-name { 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0;
+  margin: 0;
+
+  list-style-type: none;
+}

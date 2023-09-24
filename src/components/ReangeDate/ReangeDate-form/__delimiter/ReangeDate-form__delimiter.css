@@ -1,0 +1,14 @@
+.ReangeDate-form__delimiter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  width: 15%;
+  height: 100%;
+
+
+
+  font-size: 25px;
+  color: #757575;
+}
+

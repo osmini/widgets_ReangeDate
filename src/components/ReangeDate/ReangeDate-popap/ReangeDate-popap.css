@@ -1,0 +1,19 @@
+.ReangeDate-popap {
+  display: flex;
+  justify-content:space-around;
+  align-items:stretch;
+
+  position: absolute;
+  left: 10px;
+  top: 50px;
+
+  width: 620px;
+
+
+  border-radius: 8px;
+
+  background-color: var(--primary-bacgraung-color);
+
+  opacity: 0;
+  z-index: 5;
+}

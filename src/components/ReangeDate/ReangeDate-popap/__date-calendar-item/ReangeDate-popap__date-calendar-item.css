@@ -1,0 +1,35 @@
+.ReangeDate-popap__date-calendar-item { 
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  grid-row-gap: 0;
+
+  width: 38px;
+  height: 36px;
+
+  color: rgb(72, 72, 72);
+
+  background-color: #fff;
+
+  border-top: 1px solid #E4E7E7;
+  border-left: 1px solid #E4E7E7;
+
+  cursor: pointer;
+}
+
+.ReangeDate-popap__date-calendar-item:nth-child(7n) { 
+  border-right: 1px solid #E4E7E7;
+}
+
+.ReangeDate-popap__date-calendar-item:nth-child(n+29) { 
+  border-bottom: 1px solid #E4E7E7;
+}
+
+.ReangeDate-popap__date-calendar-item:last-child { 
+  border-right: 1px solid #E4E7E7;
+}
+
+.ReangeDate-popap__date-calendar-item:hover { 
+  background-color: #E4E7E7;
+  color: #000
+}

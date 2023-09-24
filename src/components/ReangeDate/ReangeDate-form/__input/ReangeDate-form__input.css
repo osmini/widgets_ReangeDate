@@ -1,0 +1,16 @@
+.ReangeDate-form__input {
+  width: 40%;
+  height: 100%;
+
+  padding-left: 23px;
+
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #757575;
+
+  font-size: 14px;
+}
+
+.ReangeDate-form__input::placeholder {
+  font-size: 16px;
+}
